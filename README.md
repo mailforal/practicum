@@ -1,2 +1,2 @@
 # practicum
-practicum prijects
+practicum projects
